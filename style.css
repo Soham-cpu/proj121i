@@ -1,0 +1,27 @@
+.heading_div{
+    height : 150px;
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    font-size: 24;
+    font-weight: 500;
+    padding-top: 40px;
+    border-radius: 10px;
+}
+
+.test1_div, .test2_div, .test3_div, .test4_div, .test5_div{
+    background-color: grey;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    padding-left: 25px;
+    padding-top: 25px;
+    margin-left: -25px;
+}
+
+.test2_div{
+    background-color: grey;
+}
+
+#b{
+    color: green;
+}
